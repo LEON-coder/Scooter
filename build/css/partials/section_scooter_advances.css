@@ -1,15 +1,11 @@
-.section-scooter-advances {
-  display: flex;
-  flex-direction: column;
-}
-
 .section-scooter-advances__headline {
-  width: 960px;
-  color: var(--f-1-f-1-f-1, #f1f1f1);
+  width      : 960px;
+  color      : var(--f-1-f-1-f-1, #f1f1f1);
   font-family: Gilroy;
-  font-size: 45px;
-  font-style: normal;
+  font-size  : 45px;
+  font-style : normal;
   font-weight: 500;
   line-height: 110%;
 }
+
 /*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhcnRpYWxzL3NlY3Rpb25fc2Nvb3Rlcl9hZHZhbmNlcy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQTBCO0VBQWE7OztBQUFzQjtFQUFvQztFQUFZO0VBQWlDO0VBQW1CO0VBQWU7RUFBa0I7RUFBZ0IiLCJmaWxlIjoicGFydGlhbHMvc2VjdGlvbl9zY29vdGVyX2FkdmFuY2VzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5zZWN0aW9uLXNjb290ZXItYWR2YW5jZXN7ZGlzcGxheTpmbGV4O2ZsZXgtZGlyZWN0aW9uOmNvbHVtbn0uc2VjdGlvbi1zY29vdGVyLWFkdmFuY2VzX19oZWFkbGluZXt3aWR0aDo5NjBweDtjb2xvcjp2YXIoLS1mLTEtZi0xLWYtMSwjZjFmMWYxKTtmb250LWZhbWlseTpHaWxyb3k7Zm9udC1zaXplOjQ1cHg7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC13ZWlnaHQ6NTAwO2xpbmUtaGVpZ2h0OjExMCV9Il19 */
