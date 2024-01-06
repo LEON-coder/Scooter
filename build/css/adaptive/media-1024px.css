@@ -1,0 +1,10 @@
+@media screen and (max-width: 1024px) {
+  .header__wrap {
+    display: flex;
+    flex-direction: column;
+    padding: 47px 40px 0 40px;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFkYXB0aXZlL21lZGlhLTEwMjRweC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQXFDO0lBQWM7SUFBYTtJQUFzQjtJQUF5QjtJQUFXIiwiZmlsZSI6ImFkYXB0aXZlL21lZGlhLTEwMjRweC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOjEwMjRweCl7LmhlYWRlcl9fd3JhcHtkaXNwbGF5OmZsZXg7ZmxleC1kaXJlY3Rpb246Y29sdW1uO3BhZGRpbmc6NDdweCA0MHB4IDAgNDBweDt3aWR0aDoxMDAlO2ZsZXgtd3JhcDp3cmFwfX0iXX0= */
